@@ -20,7 +20,7 @@
     "noImageResize": "",
     "google-analytics": "",
     "siteUrl": "undefined",
-    "uniqCompNum": 96,
+    "uniqCompNum": 97,
     "versionPublish": "4.8.6",
     "screenshot": "screenshot.png"
   },
@@ -79,40 +79,40 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/home-1-1400x950.jpg",
-                "active": true,
-                "showButtons": false,
+                "active": false,
+                "showButtons": true,
                 "showText": true,
                 "showTitle": true,
                 "title": "Wedding Gown",
                 "contentAlign": "left",
                 "text": "Famelia Lim's features beautiful wedding dresses \n<br>at an affordable price that you will simply love.",
-                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"contactus.html\" data-toolbar=\"-mbrBtnMove\">Contact Us</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-secondary-outline\" href=\"index.html#features1-s\" data-toolbar=\"-mbrBtnMove\">See Collection</a>  ",
+                "buttons": "  <a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-secondary-outline\" href=\"index.html#features1-s\" data-toolbar=\"-mbrBtnMove\">See Collection</a>  ",
                 "overlay": true,
                 "overlayOpacity": "0.3"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/famelia-lim-couture-wedding-of-dedi-valentine-3-680x453.png",
                 "active": false,
-                "showButtons": false,
+                "showButtons": true,
                 "showText": true,
                 "showTitle": true,
                 "title": "Get Your <br>Perfect Dress",
                 "contentAlign": "left",
                 "text": "We understand how important is your special day<br>Let's make it perfect with your perfect dress",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"contactus.html\" data-toolbar=\"-mbrBtnMove\">Contact Us</a> ",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"index.html#features1-s\" data-toolbar=\"-mbrBtnMove\">See Collection</a>  ",
                 "overlay": true,
                 "overlayOpacity": "0.4"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/famelia-0003-4-2000x1333.jpg",
-                "active": false,
-                "showButtons": false,
+                "active": true,
+                "showButtons": true,
                 "showText": true,
                 "showTitle": true,
                 "title": "Evening Dress",
                 "contentAlign": "left",
                 "text": "We understand how important is your special day<br>Let's make it perfect with your perfect dress",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"contactus.html\" data-toolbar=\"-mbrBtnMove\">Contact Us</a> ",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"index.html#features1-s\" data-toolbar=\"-mbrBtnMove\">See Collection</a> ",
                 "overlay": true,
                 "overlayOpacity": "0.4"
               }
