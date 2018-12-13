@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "FameliaLim",
-    "currentPage": "index.html",
+    "currentPage": "weddinggown.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -112,7 +112,7 @@
                 "title": "Evening Dress",
                 "contentAlign": "left",
                 "text": "We understand how important is your special day<br>Let's make it perfect with your perfect dress",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"index.html#features1-s\" data-toolbar=\"-mbrBtnMove\">See Collection</a> ",
+                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-secondary-outline\" href=\"index.html#features1-s\" data-toolbar=\"-mbrBtnMove\">See Collection</a> ",
                 "overlay": true,
                 "overlayOpacity": "0.4"
               }
@@ -570,7 +570,7 @@
             }
           },
           "title": "Profile",
-          "text": "<p>Custom made Wedding and Evening Dress.</p><p><a href=\"weddinggown.html#msg-box4-1t\" class=\"text-black\">Wedding Dress</a> | <a href=\"weddinggown.html\" class=\"text-black\">Gown</a> | <a href=\"weddinggown.html#msg-box4-1n\" class=\"text-black\">Kebaya</a> | <a href=\"eveninggown.html\" class=\"text-black\">Evenig Gown</a> &nbsp;| <br><a href=\"madetomeasure.html\" class=\"text-black\">Made to Measure</a>\n</p><p>Social Media\n<br><span style=\"font-size: 1.25rem;\">Facebook   : <a href=\"https://www.facebook.com/FameliaLimCouture/ \" class=\"text-black\">FameliaLimCouture</a>&nbsp;<br></span><span style=\"font-size: 1.25rem;\">Instagram : <a href=\"https://instagram.com/famelialimcouture\" class=\"text-black\">famelialimcouture</a></span></p>",
+          "text": "<p>Custom made Wedding and Evening Dress.</p><p><a href=\"weddinggown.html#msg-box4-1t\" class=\"text-black\">Wedding Dress</a> | <a href=\"weddinggown.html\" class=\"text-black\">Gown</a> | <a href=\"weddinggown.html#msg-box4-1n\" class=\"text-black\">Kebaya</a> | <a href=\"eveninggown.html\" class=\"text-black\">Evening Gown</a> &nbsp;| <br><a href=\"madetomeasure.html\" class=\"text-black\">Made to Measure</a>\n</p><p>Social Media\n<br><span style=\"font-size: 1.25rem;\">Facebook   : <a href=\"https://www.facebook.com/FameliaLimCouture/ \" class=\"text-black\">FameliaLimCouture</a>&nbsp;<br></span><span style=\"font-size: 1.25rem;\">Instagram : <a href=\"https://instagram.com/famelialimcouture\" class=\"text-black\">famelialimcouture</a></span></p>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -964,7 +964,7 @@
           "_anchor": "msg-box4-1m",
           "_styles": {
             ".lead P": {
-              "text-align": "left"
+              "text-align": "center"
             }
           }
         },
@@ -1066,7 +1066,12 @@
           "meta": "By John Smith posted July 30, 2015",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"contactus.html\" data-toolbar=\"-mbrBtnMove\">Book an Appointment</a>",
           "_name": "msg-box4",
-          "_anchor": "msg-box4-1t"
+          "_anchor": "msg-box4-1t",
+          "_styles": {
+            ".lead P": {
+              "text-align": "center"
+            }
+          }
         },
         {
           "_inherit": "gallery1",
@@ -1169,7 +1174,7 @@
           "_anchor": "msg-box4-1n",
           "_styles": {
             ".lead P": {
-              "text-align": "left"
+              "text-align": "center"
             }
           }
         },
